@@ -1,0 +1,26 @@
+html{
+    background-color: rgb(249, 225, 193);
+}
+.head1{
+    background-color: rgb(159, 53, 53);
+    padding: 2px;
+    margin: 5px;
+    color: yellowgreen;
+    border-radius: 10px 10px 100px 100px;
+}
+#main{
+    border-color: blue;
+}
+#item{
+    background-color: darkcyan;
+}
+#item1{
+    position: left;
+}
+img{
+    height: 100px;
+    width: 110px;
+}
+#item2{
+ba
+}
